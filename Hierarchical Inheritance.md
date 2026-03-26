@@ -31,8 +31,7 @@ To Write a Python program to Get the name, age and location of a person and disp
 
 ### PROGRAM
 ```
-# REGNO:-212222060174
-# Name:-Pavithra.S
+
 class Parent:
    def __init__(self,name):
      self.name = name
